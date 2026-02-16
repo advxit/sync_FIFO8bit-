@@ -75,4 +75,4 @@ Self-checking ensures functional correctness automatically.
 
 Advait Rao
 B.Tech Electronics (VLSI Design)
-Neuromorphic ML Enthusiast
+Neuromorphic ML Enthusiast & Design Verification Amateur 
